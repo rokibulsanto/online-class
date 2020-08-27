@@ -1,0 +1,9 @@
+.courseStyle{
+    color:white;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    
+}
+.courseStyle button {
+    cursor:pointer;
+}
